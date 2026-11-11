@@ -1,0 +1,6 @@
+*.pdb
+/bin/
+/obj/
+/雄兴屏拓.exe
+*.dmg
+.DS_Store
